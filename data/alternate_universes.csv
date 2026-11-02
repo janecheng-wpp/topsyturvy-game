@@ -1,0 +1,11 @@
+Universe_ID,Universe_Name,Visual_Style,Colorfulness,Detail_Level,Movement_Speed,Difficulty_Level,Main_Challenge,Special_Ability,Creativity_Score,Background_Img
+1,Sketchbook City,Hand-drawn pencil sketch,3,6,5,6,Complete unfinished buildings by finding and drawing their missing lines,"Draw temporary bridges, ladders, and doors into the world",7,sketchbook_bg.png
+2,Pixel Quest,8-bit pixel art,8,3,8,64,Collect scattered pixel pieces to rebuild a broken path before the timer runs out,Snap between pixel platforms and move in short grid-based jumps,6,8bit_bg.png
+3,Paper Fold World,Origami and folded paper,7,5,4,15,Fold parts of the landscape to make a route across a paper canyon,"Fold flat objects into new shapes, such as boats or ramps",9,origami_bg.png
+4,Claymotion Cove,Stop-motion clay animation,9,8,3,59,Rebuild a collapsed clay creature by finding and fitting its missing pieces,Mold soft objects into useful shapes,8,clay_bg.png
+5,Neon Dreamscape,Neon vector art,10,4,9,39,Follow glowing paths and reconnect broken light circuits across the city,Turn into a streak of light to zip along illuminated lines,8,neon_bg.png
+6,Watercolor Woods,Soft watercolor painting,7,7,4,42,Restore a fading forest by finding the colors that have washed away,Blend colors to reveal hidden paths and objects,7,watercolor_bg.png
+7,Comic Book Chaos,Bold comic-book panels,9,7,8,83,Rearrange comic panels to put a mixed-up action sequence back in order,Leap between panels and freeze-frame a moment briefly,9,comic_bg.png
+8,Fantasy Anime,Anime,2,5,5,73,Adjust lights and objects to create the correct shadow shapes to open a passage,"Stretch, shrink, and reshape the characters' shadows",9,anime_bg.png
+9,Stickerverse,Layered stickers and collage,10,6,6,26,Piece together a scattered collage to reveal a hidden map,Peel off and reposition objects to uncover what is underneath,8,sticker_bg.png
+10,Oil painting,Renaissance & Mannerism Oil painting,8,9,7,99,Repair a world where objects keep changing form and familiar routes rearrange themselves,Glitch between two versions of an object to solve puzzles,10,oilpainting_bg.png

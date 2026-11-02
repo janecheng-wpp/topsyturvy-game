@@ -1,8 +1,6 @@
 .ipynb_checkpoints/
 venv/
-data/alternate_universes.csv
 .DS_Store
 *.mp4
 *.mp3
 keys/
-assets/
